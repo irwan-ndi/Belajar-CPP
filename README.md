@@ -17,7 +17,7 @@
 3. membuat program dengan bahasa C++ terasa sulit,
 4. implementasi C++ pada IT sangat sedikit,
 5. Banyaknya operator dan juga fleksibilitas dalam penulisan program yang membingungkan para pemula.
-[sauce](https://cikarastudio.com/wp/kelebihan-dan-kekurangan-bahasa-pemrograman-c/#:~:text=proses%20eksekusi%20C%2B%2B%20lebih%20cepat,portable%20untuk%20semua%20jenis%20computer%2C&text=bahasa%20yang%20sudah%20memiliki%20standar%20ANSI%20yang%20bisa%20digunakan%20diberbagai%20platform.)
+   - [sauce](https://cikarastudio.com/wp/kelebihan-dan-kekurangan-bahasa-pemrograman-c/#:~:text=proses%20eksekusi%20C%2B%2B%20lebih%20cepat,portable%20untuk%20semua%20jenis%20computer%2C&text=bahasa%20yang%20sudah%20memiliki%20standar%20ANSI%20yang%20bisa%20digunakan%20diberbagai%20platform.)
 
 ## versi 2
 ### 6 Keunggulan Fitur Bahasa Pemrograman C++ untuk Pemula
@@ -27,4 +27,4 @@
 - Lebih simpel
 - Dukungan library yang lengkap
 - Mudah digunakan
-[sauce](https://www.dewaweb.com/blog/6-fitur-bahasa-pemrograman-c-untuk-pemula/)
+  - [sauce](https://www.dewaweb.com/blog/6-fitur-bahasa-pemrograman-c-untuk-pemula/)
